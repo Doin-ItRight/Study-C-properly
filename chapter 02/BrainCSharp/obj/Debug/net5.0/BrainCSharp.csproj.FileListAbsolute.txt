@@ -1,0 +1,15 @@
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/bin/Debug/net5.0/BrainCSharp.deps.json
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/bin/Debug/net5.0/BrainCSharp.runtimeconfig.json
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/bin/Debug/net5.0/BrainCSharp.runtimeconfig.dev.json
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/bin/Debug/net5.0/BrainCSharp.dll
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/bin/Debug/net5.0/ref/BrainCSharp.dll
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/bin/Debug/net5.0/BrainCSharp.pdb
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.csproj.AssemblyReference.cache
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.AssemblyInfoInputs.cache
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.AssemblyInfo.cs
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.csproj.CoreCompileInputs.cache
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.dll
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/ref/BrainCSharp.dll
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.pdb
+/Users/jaehyunglee/Projects/DoinItRight/Study-C-properly/chapter 02/BrainCSharp/obj/Debug/net5.0/BrainCSharp.genruntimeconfig.cache
